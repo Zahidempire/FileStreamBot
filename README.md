@@ -145,4 +145,8 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Original Repo Owner - https://github.com/avipatilpro
 
-Special Thanks to him for making this Repo🙏
+Special Thanks to these 3 people for their great work🙏
+
+1) https://github.com/avipatilpro
+2) https://github.com/EverythingSuckz
+3) https://github.com/AbirHasan2005
