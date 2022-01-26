@@ -1,6 +1,6 @@
 <h1 align="center">FileStreamBot</h1>
 <p align="center">
-  <a href="https://github.com/Avipatilpro/FileStreamBot">
+  <a href="https://github.com/GreyMatter658/FileStreamBot/tree/main">
     <img src="https://socialify.git.ci/avipatilpro/FileStreamBot/image?description=1&descriptionEditable=Telegram%20File%20to%20Link%20Fastest%20Bot%20%2C%20also%20used%20for%20Movies%20streaming%20Generate%20Direct%20Links&font=KoHo&forks=1&logo=https%3A%2F%2Fi.ibb.co%2FZJzJ9Hq%2Flink-3x.png&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="Cover Image" width="550">
   </a>
   
@@ -18,7 +18,7 @@
 <br>
 
 #### Demo Bot:  
-<a href="https://telegram.me/FxStreamBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://telegram.me/direct_link_generator_658_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 <hr>
 
@@ -27,7 +27,7 @@
 ## 🍁 About This Bot :
 
 <p align="center">
-    <a href="https://github.com/Avipatilpro/FileStreamBot">
+    <a href="https://github.com/GreyMatter658/FileStreamBot/tree/main">
         <img src="https://i.ibb.co/ZJzJ9Hq/link-3x.png" height="100" width="100" alt="FileStreamBot Logo">
     </a>
 </p>
@@ -66,7 +66,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/avipatilpro/FileStreamBot
+git clone https://github.com/GreyMatter658/FileStreamBot/tree/main
 cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -141,4 +141,4 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
 
-- [Avishkarpatil](https://telegram.me/Avishkarpatil)
+- [Moksh Bhardwaj](https://telegram.me/Moksh_b658)
