@@ -142,3 +142,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 
 - [Moksh Bhardwaj](https://telegram.me/Moksh_b658)
+
+### Original Repo Owner - https://github.com/avipatilpro
+
+Special Thanks to him for making this Repo🙏
