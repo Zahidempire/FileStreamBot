@@ -22,7 +22,7 @@
 
 <hr>
 
-
+### [Tutorial Video](https://youtu.be/kkwAMiBTFRI)
 
 ## 🍁 About This Bot :
 
