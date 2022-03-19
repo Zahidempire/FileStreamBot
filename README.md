@@ -140,7 +140,7 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 ### Channel Support
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
-
+#### [Tutorial Video](https://youtu.be/kkwAMiBTFRI)
 - [Moksh Bhardwaj](https://telegram.me/Moksh_b658)
 
 ### Original Repo Owner - https://github.com/avipatilpro
