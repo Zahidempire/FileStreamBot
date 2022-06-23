@@ -18,16 +18,14 @@
 <br>
 
 #### Demo Bot:  
-<a href="https://telegram.me/direct_link_generator_658_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/STARK_DIRECT_LINK_BOT"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 <hr>
-
-### [Tutorial Video](https://youtu.be/kkwAMiBTFRI)
 
 ## 🍁 About This Bot :
 
 <p align="center">
-    <a href="https://github.com/GreyMatter658/FileStreamBot/tree/main">
+    <a href="https://github.com/Zahidempire/FileStreamBot">
         <img src="https://i.ibb.co/ZJzJ9Hq/link-3x.png" height="100" width="100" alt="FileStreamBot Logo">
     </a>
 </p>
@@ -66,7 +64,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/GreyMatter658/FileStreamBot/tree/main
+git clone https://github.com/Zahidempire/FileStreamBot/tree/main
 cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -147,6 +145,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 Special Thanks to these 3 people for their great work🙏
 
-1) https://github.com/avipatilpro
-2) https://github.com/EverythingSuckz
-3) https://github.com/AbirHasan2005
+1) https://GitHub.com/Zahidempire
+2) https://github.com/avipatilpro
+3) https://github.com/EverythingSuckz
+4) https://github.com/AbirHasan2005
