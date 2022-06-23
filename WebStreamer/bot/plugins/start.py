@@ -40,7 +40,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
         InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close')]
-       [InlinekeyboardButton("DONATE", url=f"https://paypal.me/zahid9125")
+       [InlineKeyboardButton("DONATE", url=f"https://paypal.me/zahid9125")
 ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
@@ -48,7 +48,7 @@ HELP_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('Hᴏᴍᴇ', callback_data='home'),
         InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close')
-        ][InlinekeyboardButton("DONATE", url=f"https://paypal.me/zahid9125")
+        ][InlineKeyboardButton("DONATE", url=f"https://paypal.me/zahid9125")
 ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
@@ -56,7 +56,7 @@ ABOUT_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('Hᴏᴍᴇ', callback_data='home'),
         InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
         InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close')
-        ][InlinekeyboardButton("DONATE", url=f"https://paypal.me/zahid9125")
+        ][InlineKeyboardButton("DONATE", url=f"https://paypal.me/zahid9125")
 ]]
     )
 
